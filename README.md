@@ -19,6 +19,7 @@ brew install ncftp
 
 ## Usage
 1.Open the command file with a text editor.
+
 2.Configuration ftp data(Multiple setting possible).
 ```
 # Syntax
@@ -33,6 +34,7 @@ downloadsite=(
 
 )
 ```
+
 3.To set the end notification, change the flag to 1 and set the API token and room ID.
 ```
 mgsFlag=1
@@ -43,6 +45,7 @@ cwToken="xxxxxxxxxxxxxxxxxxxx"
 # Room ID
 cwRoomId="0123456789"
 ```
+
 4.When you finish setting, save and execute the command file.
 
 ## Author
